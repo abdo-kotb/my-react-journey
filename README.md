@@ -16,7 +16,7 @@ It is a simple expense tracker where the user can add new expenses and filter th
 
 | Code on Github                                                  | Demo                                                    |
 | :-------------------------------------------------------------- | :------------------------------------------------------ |
-| [Expenses Tracker](https://github.com/abdo-kotb/expenses-react) | [Live demo](https://react-expensestracker.netlify.app/) |
+| [Expenses Tracker](https://github.com/abdo-kotb/my-react-journey/tree/main/expenses-tracker) | [Live demo](https://react-expensestracker.netlify.app/) |
 
 #### What I learned
 
