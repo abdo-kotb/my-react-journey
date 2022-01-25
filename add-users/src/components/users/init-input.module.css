@@ -1,0 +1,14 @@
+.form-control label {
+  display: inline-block;
+  font-weight: 700;
+  margin-bottom: 10px;
+}
+
+.form-control input {
+  display: block;
+  width: 100%;
+  margin-bottom: 8px;
+  border: none;
+  border: 1px solid #888;
+  padding: 5px;
+}

@@ -1,0 +1,13 @@
+.users-list {
+  list-style: none;
+}
+
+.user {
+  padding: 5px;
+  border: 1px solid #ccc;
+  font-weight: 500;
+}
+
+.user:not(:last-child) {
+  margin-bottom: 10px;
+}
