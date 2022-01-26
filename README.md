@@ -32,7 +32,7 @@ It is a simple form application where users can add their names and ages, with a
 
 | Code on Github                                                  | Demo                                                    |
 | :-------------------------------------------------------------- | :------------------------------------------------------ |
-| [Expenses Tracker](https://github.com/abdo-kotb/my-react-journey/tree/main/add-users) | [Live demo](https://addusers-react.netlify.app) |
+| [Add Users](https://github.com/abdo-kotb/my-react-journey/tree/main/add-users) | [Live demo](https://addusers-react.netlify.app) |
 
 #### What I learned
 
