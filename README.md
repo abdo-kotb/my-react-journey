@@ -39,3 +39,22 @@ It is a simple form application where users can add their names and ages, with a
 - Unlike the first project I built this one compeletly on my own with more practice on the basices I learned from the first project
 - I practiced styling the components using css modules and learned about Styled Components
 - I learned the React fragments and portals, and the difference between controlled and uncontrolled components, and continued learning the hooks [useRef]
+
+### Project #3
+
+Food Order App
+
+This is a food order application covers all the core concepts in React where users can add meals to the cart and change the amount and see the prices reflecting.
+
+| Code on Github                                                  | Demo                                                    |
+| :-------------------------------------------------------------- | :------------------------------------------------------ |
+| [Food Order App](https://github.com/abdo-kotb/food-order-app) | [Live demo](https://mealsreact.netlify.app/) |
+
+#### What I learned
+
+This was the most complex application yet.
+It covered all the React concepts I have studied so far from components and styling to hooks, fragments, and portals.
+With a slightly bigger project like this one, I am starting to sense why to use React.
+
+All hooks covered in this project: (useState, useContext, useEffect, useReducer, useRef)
+Other tools: (portals, fragments, context, forwardRef, CSS Modules)
