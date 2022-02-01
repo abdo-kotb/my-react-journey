@@ -58,3 +58,18 @@ With a slightly bigger project like this one, I am starting to sense why to use 
 
 All hooks covered in this project: (useState, useContext, useEffect, useReducer, useRef)
 Other tools: (portals, fragments, context, forwardRef, CSS Modules)
+
+### Project #3 V2
+
+I continued to practice more react advanced concepts on the Food Order App project
+
+| Code on Github                                                  | Demo                                                    |
+| :-------------------------------------------------------------- | :------------------------------------------------------ |
+| [Food Order App](https://github.com/abdo-kotb/food-order-app) | [Live demo](https://mealsreact.netlify.app/) |
+
+#### What I learned
+
+- This might be my first interaction with the backend web world, though I only used the Firebase backend platform and did not code or use any backend languages yet.
+- There was no local data. I fetched the meals data from the server, and I also sent the users data from the cart form to the server.
+- The only difference between React and Vanilla JS with AJAX is side effects, but it was great to practice it again and learn the new stuff.
+- Creating form validation with Vanilla JS so far was a bit easier than React, but the overall ordering process is of course much faster with React.
